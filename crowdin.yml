@@ -1,0 +1,3 @@
+files:
+  - source: RaVaN/localization/en.yaml
+    translation: /**/RaVaN/localization/%locale_with_underscore%.yaml
