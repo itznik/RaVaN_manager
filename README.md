@@ -41,7 +41,7 @@ $ cd RaVaN
 $ bash deploy.sh
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
-# Rename ./DaisyX/data/bot_conf.yaml.example to bot_conf.yaml and fill
+# Rename ./RaVaN/data/bot_conf.yaml.example to bot_conf.yaml and fill
 # Start Bot 
 $ python(3) -m RaVaN
 ```
@@ -98,7 +98,7 @@ This repo was just revamped to suit an Anime-centric & comedy loving community. 
 
 All other credits mentioned on top of scripts
 
-Anything missing kindly let us know at [Daisy Support](https://t.me/itznik_x) or simply submit a pull request on the readme.
+Anything missing kindly let us know at [𝐑𝐀𝐕𝐀𝐍 sumport😄](https://t.me/itznik_x) or simply submit a pull request on the readme.
 
 # 𝐑𝐀𝐕𝐀𝐍 the telegram Bot Project
 𝐑𝐀𝐕𝐀𝐍 (Base AioGram)
@@ -111,7 +111,7 @@ Anything missing kindly let us know at [Daisy Support](https://t.me/itznik_x) or
 - [Inuka Asith](https://github.com/inukaasith) 
 - [annihilatorrrr](https://github.com/annihilatorrrr) 
 ### • SBATROW BATROW »»  <a href="https://github.com/sbatrow" alt="Sbatrow"> <img src="https://img.shields.io/badge/Sbatrow-22CADA?logo=github" /></a>
-### • LEGENDX     »»  <a href="https://github.com/legendXOp" alt="LegendXOp"> <img src="https://img.shields.io/badge/LegendX-92CALA?logo=github" /></a>
+### • Nik     »»  <a href="Https://t.me/itznik_x" alt="LegendXOp"> <img src="https://img.shields.io/badge/itznik-92CALA?logo=github" /></a>
 ### • ROSELOVERX  »»  <a href="https://github.com/Amarnathcdj" alt="RoseLoverX"> <img src="https://img.shields.io/badge/RoseLoverX-82CAFA?logo=github" /></a>
 
 
