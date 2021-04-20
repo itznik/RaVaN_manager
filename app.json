@@ -3,14 +3,14 @@
   "description": "?",
   "keywords": [
     "telegram",
-    "Daisy",
+    "RaV",
     "plugin",
     "telegram-𝐑𝐀𝐕𝐀𝐍",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
+  "repository": "https://github.com/itznik/RaVaN_manager",
   "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "success_url": "t.me/itznik_x",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
